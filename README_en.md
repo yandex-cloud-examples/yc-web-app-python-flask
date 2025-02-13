@@ -6,4 +6,4 @@ The web app is written in Python and uses SQLite to work with data. To develop t
 
 We opted for Flask as the base framework for our application, since it is one of the most intuitive and straightforward Python web frameworks.
 
-For a step-by-step tutorial, see the relevant [Yandex Cloud documentation](https://cloud.yandex.ru/docs/tutorials/web/flask).
+For a step-by-step tutorial, see the relevant [Yandex Cloud documentation](https://yandex.cloud/en/docs/tutorials/web/flask).
